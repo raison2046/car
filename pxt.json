@@ -1,0 +1,24 @@
+{
+    "name": "car",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "wuKong": "github:elecfreaks/pxt-wukong#v1.4.1",
+        "tinkercademy-tinker-kit": "github:tinkertanker/pxt-tinkercademy-tinker-kit#v1.1.1",
+        "Environment-and-Science-IoT": "github:tinkertanker/pxt-iot-environment-kit#v4.6.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
